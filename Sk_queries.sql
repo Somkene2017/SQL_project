@@ -1,4 +1,4 @@
-NOTE: I used notepad++ to format the queries. Please view with notepad++ if notepad does not show the proper format. 
+/*NOTE: I used notepad++ to format the queries. Please view with notepad++ if notepad does not show the proper format. */
 
 /*--Query-1: Solution to SLide 1-- */
 
